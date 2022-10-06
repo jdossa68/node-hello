@@ -20,5 +20,7 @@ pipeline {
       steps {
         sh 'npm start'
       }
+    }
   }
 }
+  
